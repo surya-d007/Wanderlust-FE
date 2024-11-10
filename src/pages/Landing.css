@@ -1,0 +1,12 @@
+@media (max-width: 400px) {
+    .hide-on-small-screen {
+      display: none;
+    }
+  }
+
+  @media (min-width: 400px) and (max-width: 600px) {
+    .hide-on-medium-screen {
+      height: 50px;
+    }
+  }
+  
